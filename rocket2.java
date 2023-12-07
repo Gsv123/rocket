@@ -1,9 +1,5 @@
-public class addition {
- int a = 12;
- int b = 17;
- int c = 342;
- int d = a + b + c;
-public static void main(string[]args){  
-  System. out. println("Addition result = " + d);
- }
+public class HelloWorld {
+  public static void main(String[] args) {
+    System. out. println("Hello,World");
+  }
 }
